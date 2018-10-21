@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MicrobitBLE</string>
+    <string name="button_A">A</string>
+    <string name="button_B">B</string>
+    <string name="button_connect">Connect</string>
+    <string name="ble_not_supported">BLEに対応していません</string>
+</resources>
