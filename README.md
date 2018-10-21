@@ -1,2 +1,3 @@
-# android_microbit
-Android App and Microbit connect with BLE Sample
+# Android_Microbit
+AndroidアプリとMicrobitを接続するサンプルです。
+最低限動作するレベルのコードです。ご了承ください。
